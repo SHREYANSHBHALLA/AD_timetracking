@@ -1,1 +1,1 @@
-hi! whatsup!!
+print ("hi! whatsup!!")
